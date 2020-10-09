@@ -347,6 +347,6 @@ C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus
 C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\staticwebassets\Virus Survey Tool.StaticWebAssets.xml
 C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\Virus Survey Tool.dll
 C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\Virus Survey Tool.pdb
-C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\Ey6Sp5JFILz14ZXtEwx8r5uKz6yKf5coPlQY8iKa4Es=.hash
-C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\VSpt6xkSNOdEARWj_1hBzqq0UJ9PQie4nXD5l5Td4gk=.hash
-C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\YgNyrKMDOnXcxetB3tkoN270T3tkxFKvYolT-4SQevg=.hash
+C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\oSKRg2ORy7SVf0DMAcFiClfHnBOCA_4aXEnMqYC3AOw=.hash
+C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\5houVTLIQCikK2Cn8wVjf1v8OG881Vz04Nycy5F3xzI=.hash
+C:\Users\salar\OneDrive\Documents\GitHub\VirusSurveyTool\Virus Survey Tool\Virus Survey Tool\obj\Debug\netstandard2.1\integrity\QCERf9AMRfKhdPRsr8_gVERccCQF_ZQ-HHC3K4A5zcA=.hash

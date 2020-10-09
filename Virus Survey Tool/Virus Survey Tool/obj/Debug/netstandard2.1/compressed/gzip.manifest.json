@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Ey6Sp5JFILz14ZXtEwx8r5uKz6yKf5coPlQY8iKa4Es=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oSKRg2ORy7SVf0DMAcFiClfHnBOCA_4aXEnMqYC3AOw=.hash",
       "Source": "C:\\Users\\salar\\OneDrive\\Documents\\GitHub\\VirusSurveyTool\\Virus Survey Tool\\Virus Survey Tool\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Virus Survey Tool.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Virus Survey Tool.dll.gz"
     },
@@ -256,7 +256,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VSpt6xkSNOdEARWj_1hBzqq0UJ9PQie4nXD5l5Td4gk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5houVTLIQCikK2Cn8wVjf1v8OG881Vz04Nycy5F3xzI=.hash",
       "Source": "C:\\Users\\salar\\OneDrive\\Documents\\GitHub\\VirusSurveyTool\\Virus Survey Tool\\Virus Survey Tool\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Virus Survey Tool.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Virus Survey Tool.pdb.gz"
     },
@@ -281,7 +281,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YgNyrKMDOnXcxetB3tkoN270T3tkxFKvYolT-4SQevg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QCERf9AMRfKhdPRsr8_gVERccCQF_ZQ-HHC3K4A5zcA=.hash",
       "Source": "C:\\Users\\salar\\OneDrive\\Documents\\GitHub\\VirusSurveyTool\\Virus Survey Tool\\Virus Survey Tool\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

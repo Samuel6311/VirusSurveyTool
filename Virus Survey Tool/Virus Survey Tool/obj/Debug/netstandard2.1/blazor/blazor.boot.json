@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Virus Survey Tool.dll": "sha256-Ey6Sp5JFILz14ZXtEwx8r5uKz6yKf5coPlQY8iKa4Es=",
+      "Virus Survey Tool.dll": "sha256-oSKRg2ORy7SVf0DMAcFiClfHnBOCA+4aXEnMqYC3AOw=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-Bs1Wrmh4ex9dTEIT0yCRF52N\/wOmsBDt457BHr0\/ssM=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -59,7 +59,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Virus Survey Tool.pdb": "sha256-VSpt6xkSNOdEARWj+1hBzqq0UJ9PQie4nXD5l5Td4gk="
+      "Virus Survey Tool.pdb": "sha256-5houVTLIQCikK2Cn8wVjf1v8OG881Vz04Nycy5F3xzI="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
