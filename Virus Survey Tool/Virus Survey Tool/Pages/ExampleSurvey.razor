@@ -1,0 +1,78 @@
+﻿@page "/examplesurvey"
+
+<h1>Example Survey</h1>
+
+<p>
+    1. Where do you live?
+</p>
+
+<p>
+    <br /> If you live on campus... <br />
+    Which building do you live in?
+</p>
+
+<p>
+    <br /> If you live off campus... <br />
+    What city do you live in?
+</p>
+
+<p>
+    <br />2. Where do you want to go at SCSU?
+</p>
+
+<p>
+    <br />3. Have you or are you experiencing any of the following?
+</p>
+<p>
+    <input type="checkbox" name="fever"> A fever(100.4 F or higher), or a sense of having a fever or feeling feverish (chills, sweating?)<br />
+    <input type="checkbox" name="cough"> A new cough that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="breath"> A new shortness of breath that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="AppSourceMagazines"> A new sore throat that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="muscle"> New muscle aches that you cannot attribute to another health contition that are not caused by a specific activity (such as physical exercise)?<br />
+    <input type="checkbox" name="headache"> A new headache that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="smelltaste"> New loss of smell or taste that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="vomit"> Vomiting or diarrhea that you cannot attribute to another health condition?<br />
+    <input type="checkbox" name="Evaluation"> Are you <br />
+    <input type="checkbox" name=""><br />
+    <input type="checkbox" name=""><br />
+</p>
+<p>
+    <br />4. To the best of your knowledge during the past 14 days, have you been withing 6 feet<br />
+    of a person with a pending or lab confirmed case of COVID-19 for at least 15 minutes,<br />
+    had direct contact with that person's mucus or saliva, or been contacted by public health<br />
+    and told you were in close contact with someone known to have COVID-19?
+</p>
+
+
+<br />
+<br />
+<button class="btn btn-primary" @onclick="CalculateScore">See Results</button>
+<br />
+<br />
+
+@if (currentCount == -1)
+{
+    <p></p>
+}
+else if (currentCount > 10)
+{
+    <p>You are at risk of Covid-19</p>
+}
+else if (currentCount > 5)
+{
+    <p>You might be at risk of Covid-19</p>
+}
+else
+{
+    <p>You are not at risk of Covid-19</p>
+}
+
+@code {
+    private int currentCount = -1;
+
+    private void CalculateScore()
+    {
+        currentCount = 0;
+        currentCount++;
+    }
+}
